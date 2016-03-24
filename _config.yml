@@ -1,0 +1,28 @@
+name: Consciousness Rising
+favicon: null
+layout_spectrum: 0.6208782764151692
+typography_spectrum: 0.2477068305015564
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.12830435601063073
+  lightness: 0.24320090748369694
+  saturation: 0.8335777788888663
+  rhythmicContrast: 0.37704497878439724
+purpose: []
